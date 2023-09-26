@@ -42,6 +42,7 @@
 #ifndef TEUCHOS_BIG_UINT_HPP
 #define TEUCHOS_BIG_UINT_HPP
 
+#include <cstdint>
 #include <iostream>
 #include <Teuchos_BigUIntDecl.hpp>
 
